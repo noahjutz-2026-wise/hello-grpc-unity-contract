@@ -3,7 +3,7 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
         <PackageId>com.noahjutz.hellogrpcunitycontract</PackageId>
-        <Version>1.0.0-dev01</Version>
+        <Version>1.0.0-dev02</Version>
         <Authors>Noah Jutz</Authors>
     </PropertyGroup>
 
