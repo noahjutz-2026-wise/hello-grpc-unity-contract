@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <PackageId>com.noahjutz.hellogrpcunitycontract</PackageId>
-        <Version>1.0.0-dev03</Version>
+        <Version>1.0.0-dev04</Version>
         <Authors>Noah Jutz</Authors>
         <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
