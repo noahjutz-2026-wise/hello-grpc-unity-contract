@@ -1,6 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
+        <PackageId>com.noahjutz.hellogrpcunitycontract</PackageId>
+        <Version>1.0.0-dev01</Version>
+        <Authors>Noah Jutz</Authors>
+    </PropertyGroup>
+
+    <PropertyGroup>
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
